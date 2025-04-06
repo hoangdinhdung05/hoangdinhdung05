@@ -23,6 +23,9 @@
   <a href="https://github.com/hoangdinhdung05" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
+  <a href="mailto:hoangdinhdung0205@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
 </p>
 
 ---
@@ -30,31 +33,38 @@
 ### 🛠️ Tech Stack:
 
 #### 👨‍💻 Programming Languages
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
-![PHP](https://img.icons8.com/officel/48/php-logo.png)
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-![C](https://img.icons8.com/color/48/c-programming.png)
-![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+</p>
 
 #### 🌐 Front-End
-![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
-![CSS3](https://img.icons8.com/color/48/css3.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+</p>
 
 #### 🧠 Back-End
-![Spring MVC](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-spring-mvc-a-java-framework-used-to-build-web-applications-logo-shadow-tal-revivo.png)
-![Spring Boot](https://img.icons8.com/color/48/spring-logo.png)
-![Laravel](https://img.icons8.com/ios-filled/48/FA5252/laravel.png)
-![REST API](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-api-computer-programming-flaticons-lineal-color-flat-icons.png)
-![Spring Security](https://img.icons8.com/color/48/lock.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/ios-filled/48/FA5252/laravel.png" alt="Laravel"/>
+</p>
 
 #### 🗄️ Databases
-![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
-![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
+</p>
 
 #### 🧰 Tools & IDEs
-![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
-![IntelliJ](https://img.icons8.com/color/48/intellij-idea.png)
-![Git](https://img.icons8.com/color/48/git.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+</p>
 
 ---
 

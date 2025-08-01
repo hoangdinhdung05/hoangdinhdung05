@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍🎓 About Me:
-- 🎓 Sinh viên năm 2 tại **Đại học Công nghệ Giao thông Vận tải (UTT)**
+- 🎓 Sinh viên năm 3 tại **Đại học Công nghệ Giao thông Vận tải (UTT)**
 - 💻 Yêu thích phát triển phần mềm với Java, PHP, Laravel
 - 🚀 Đang học và xây dựng nhiều dự án Fullstack (Spring Boot + React)
 

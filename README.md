@@ -3,9 +3,9 @@
 
 <h1>Hi there, I'm Hoàng Đình Dũng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3>🚀 Backend Developer | Java & Spring Boot | Angular | UTT Student</h3>
+<h3>🚀 Software Engineer | Java & Spring Boot | Angular | VPBank</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Java+%26+Spring+Boot;Building+clean%2C+scalable+and+maintainable+systems;Passionate+about+System+Design+and+Software+Architecture;UTT+Student+%7C+Working+at+SoftDreams" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+with+Java+%26+Spring+Boot;Building+clean%2C+scalable+and+maintainable+systems;Passionate+about+System+Design+and+Software+Architecture;4th-year+UTT+Student+%7C+Working+at+VPBank" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Backend-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Company-SoftDreams-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-VPBank-008848?style=for-the-badge&logo=briefcase&logoColor=white" />
 <img src="https://img.shields.io/badge/University-UTT-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
 </div>
@@ -29,7 +29,7 @@
 
 ## 👨‍💼 Professional Summary
 
-I am **Hoàng Đình Dũng**, currently a **3rd-year student at University of Transport Technology (UTT)** and working at **SoftDreams**.
+I am **Hoàng Đình Dũng**, currently a **4th-year student at University of Transport Technology (UTT)** and working as a **Software Engineer at VPBank**.
 
 💻 My main focus is **Backend Development with Java**, especially using **Spring Boot** to build RESTful APIs, business workflows, and database-driven systems.  
 🌐 On the frontend side, I work with **Angular** to create practical and maintainable user interfaces.
@@ -52,8 +52,9 @@ I am especially interested in:
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-- 🎓 **3rd-year student** at **University of Transport Technology (UTT)**
-- �� **Currently working** at **SoftDreams**
+- 🎓 **4th-year student** at **University of Transport Technology (UTT)**
+- 💼 **Current role:** Software Engineer at **VPBank** (since **17/08**)
+- 📍 **Previous role:** Software Engineer at **SoftDreams** (until **15/08**)
 - 💻 Main backend stack: **Java, Spring Boot**
 - 🌐 Frontend stack: **Angular**
 - 🗄️ Strong interest in **SQL, database design, and system architecture**
@@ -64,6 +65,17 @@ I am especially interested in:
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🗓️ Career Timeline
+
+<div align="center">
+
+| Time | Company | Position |
+|------|---------|----------|
+| Until **15/08** | SoftDreams | Software Engineer |
+| From **17/08** | VPBank | Software Engineer |
+
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -222,9 +234,9 @@ but also design systems with clear boundaries, reliable business logic, and scal
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangdinhdung05/hoangdinhdung05/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangdinhdung05/hoangdinhdung05/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hoangdinhdung05/hoangdinhdung05/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangdinhdung05/hoangdinhdung05/refs/heads/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangdinhdung05/hoangdinhdung05/refs/heads/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hoangdinhdung05/hoangdinhdung05/refs/heads/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -234,10 +246,10 @@ but also design systems with clear boundaries, reliable business logic, and scal
 
 <div align="center">
 
-[![SoftDreams](https://img.shields.io/badge/🌐%20SoftDreams-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softdreams.vn/)
+[![VPBank](https://img.shields.io/badge/🌐%20VPBank-Visit%20Website-008848?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vpbank.com.vn/)
 [![Facebook](https://img.shields.io/badge/📘%20Facebook-Hoàng%20Đình%20Dũng-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hoangdinhdung2208)
 [![GitHub](https://img.shields.io/badge/🐙%20GitHub-hoangdinhdung05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangdinhdung05)
-[![Email](https://img.shields.io/badge/📧%20Email-hoangdinhdung0205%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangdinhdung0205@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email-dunghd.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunghd.dev@gmail.com)
 
 </div>
 
